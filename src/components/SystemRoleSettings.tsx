@@ -88,14 +88,15 @@ export default (props: Props) => {
           <div>
             <div
               style="line-height: 150px;
-    width: 100%;
-    text-align: center;
-    color: #fff;
-    height: 150px;
-    font-size: 40px;"
+              width: 100%;
+              text-align: center;
+              color: red;
+              height: 150px;
+              font-size: 35px;
+              font-weight: 700;"
             >开发不易，欢迎赞赏
             </div>
-            <img src="../../public/weixin.jpg" alt="" />
+            <img src="/weixin.jpg" alt="" />
           </div>
         </div>
       </Show>
